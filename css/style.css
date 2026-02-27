@@ -9,6 +9,5 @@ ul {
 li a {
   display: block;
   color: black;
-  padding: 8px 8px;
+  padding: 1px 4px;
   text-decoration: none;
-}
